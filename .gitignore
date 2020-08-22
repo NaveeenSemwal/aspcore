@@ -1,0 +1,11 @@
+.vs/
+EMS.Web/bin/
+EMS.BLL/bin/
+EMS.BLL/obj/
+EMS.DLL/bin/
+EMS.DLL/obj/
+EMS.Entity/bin/
+EMS.Entity/obj/
+EMS.Utilities/bin/
+EMS.Utilities/obj/
+EMS.Web/obj/
